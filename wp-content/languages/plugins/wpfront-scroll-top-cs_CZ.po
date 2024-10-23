@@ -1,0 +1,363 @@
+# Translation of Plugins - WPFront Scroll Top - Stable (latest release) in Czech
+# This file is distributed under the same license as the Plugins - WPFront Scroll Top - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-08-17 12:39:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.9\n"
+"Language: cs_CZ\n"
+"Project-Id-Version: Plugins - WPFront Scroll Top - Stable (latest release)\n"
+
+#: classes/trait-wpfront-scroll-top.php:80
+msgid "Select Image"
+msgstr "Vybrat obrázek"
+
+#: classes/trait-wpfront-scroll-top.php:79
+msgid "Choose Image"
+msgstr "Zvolit obrázek"
+
+#: classes/trait-wpfront-scroll-top.php:78
+msgid "Media Library"
+msgstr "Knihovna médií"
+
+#: classes/trait-wpfront-scroll-top.php:161
+msgid "Image Button"
+msgstr "Obrázek Tlačítka"
+
+#: classes/trait-wpfront-scroll-top.php:120
+#: classes/trait-wpfront-scroll-top.php:121
+msgid "Use the textbox below to specify the post IDs as a comma separated list."
+msgstr "[Pomocí textového pole níže zadejte ID příspěvků, které oddělíte čárkami.]"
+
+#: classes/trait-wpfront-scroll-top.php:177
+msgid "Link to Page"
+msgstr "Odkaz na stránku"
+
+#: classes/trait-wpfront-scroll-top.php:75
+msgid "How to find CSS selector?"
+msgstr "Jak najít výběr CSS?"
+
+#: classes/trait-wpfront-scroll-top.php:134
+msgid "Negative value allowed. Use this filed to precisely set scroll position. Useful when you have overlapping elements."
+msgstr "[Povolena je i záporná hodnota. Použijte toto pole k přesnému nastavení pozice rolování. Toto Vám pomůže, když se prvky překrývají.]"
+
+#: classes/trait-wpfront-scroll-top.php:133
+msgid "CSS selector of the element, which has the scroll bar. \"html, body\" works in almost all cases."
+msgstr "[CSS selektor prvku, který má posuvník. \"html, body\" funguje téměř ve všech případech.]"
+
+#: classes/trait-wpfront-scroll-top.php:132
+msgid "CSS selector of the element, you are trying to scroll to. Ex: #myDivID, .myDivClass"
+msgstr "[CSS selektor prvku, na který se pokoušíte přejít/skrolovat. Příklad: #myDivID, .myDivClass]"
+
+#: classes/trait-wpfront-scroll-top.php:176
+msgid "Scroll to Element"
+msgstr "Přejít/skrolovat na prvek"
+
+#: classes/trait-wpfront-scroll-top.php:111
+msgid "Default action on WP-ADMIN pages."
+msgstr "[Výchozí akce na stránkách WP-ADMIN.]"
+
+#: classes/trait-wpfront-scroll-top.php:175
+msgid "Scroll to Top"
+msgstr "Přejít nahoru"
+
+#: classes/trait-wpfront-scroll-top.php:107
+msgid "Enable as a last resort if the button is not working. This could create compatibility issues."
+msgstr "[Povolit jako poslední možnost, v případě, že tlačítko nefunguje. Mohlo by to způsobit problémy s kompatibilitou.]"
+
+#: classes/trait-wpfront-scroll-top.php:93
+msgid "Increases site performance. Keep it enabled, if there are no conflicts."
+msgstr "[Zvyšuje výkon stránek. Pokud nedochází ke konfliktům, ponechte toto povoleno.]"
+
+#: classes/trait-wpfront-scroll-top.php:53
+msgid "Attach on Shutdown"
+msgstr "Připnout při vypnutí"
+
+#: classes/trait-wpfront-scroll-top.php:70
+msgid "Icon Color"
+msgstr "Barva ikony"
+
+#: classes/trait-wpfront-scroll-top.php:69
+msgid "Do not include URL"
+msgstr "Nezahrnujte URL"
+
+#: classes/trait-wpfront-scroll-top.php:67
+msgid "Icon Class"
+msgstr "Třída ikony"
+
+#: classes/trait-wpfront-scroll-top.php:65
+msgid "Mouse Over Color"
+msgstr "Barva při přejetí myši"
+
+#: classes/trait-wpfront-scroll-top.php:74
+msgid "Offset"
+msgstr "Odsazení"
+
+#: classes/trait-wpfront-scroll-top.php:73
+msgid "Scroll Container CSS Selector"
+msgstr "Posouvání selektoru CSS kontejneru"
+
+#: classes/trait-wpfront-scroll-top.php:72
+msgid "Element CSS Selector"
+msgstr "Selektor CSS prvku"
+
+#: classes/trait-wpfront-scroll-top.php:76
+msgid "Page URL"
+msgstr "Stránka CSS"
+
+#: classes/trait-wpfront-scroll-top.php:55
+msgid "Button Action"
+msgstr "Tlačítko Akce"
+
+#: classes/trait-wpfront-scroll-top.php:39
+msgid "Javascript Async"
+msgstr "Asynchronní JavaScript"
+
+#: classes/trait-wpfront-scroll-top.php:126
+#: classes/trait-wpfront-scroll-top.php:127
+#: classes/trait-wpfront-scroll-top.php:131
+msgid "ex:"
+msgstr "např.:"
+
+#: classes/trait-wpfront-scroll-top.php:163
+msgid "Font Awesome Button"
+msgstr "Píšmo tlačítka"
+
+#: classes/trait-wpfront-scroll-top.php:68
+msgid "Font Awesome URL"
+msgstr "Písmo odpovědi URL"
+
+#. Author URI of the plugin
+msgid "http://wpfront.com"
+msgstr "http://wpfront.com"
+
+#. Description of the plugin
+msgid "Allows the visitor to easily scroll back to the top of the page."
+msgstr "Umožňuje návštěvníkovi snadno přejít zpět na začátek stránky."
+
+#. Plugin URI of the plugin
+msgid "http://wpfront.com/scroll-top-plugin/"
+msgstr "http://wpfront.com/scroll-top-plugin/"
+
+#: classes/trait-wpfront-scroll-top.php:59
+msgid "Custom URL"
+msgstr "Vlastní adresa URL"
+
+#: classes/trait-wpfront-scroll-top.php:189
+msgid "All pages"
+msgstr "Všechny stránky"
+
+#: classes/class-wpfront-scroll-top-options-view.php:63
+msgid "Filter"
+msgstr "Filtrovat"
+
+#: classes/trait-wpfront-scroll-top.php:116
+#: classes/trait-wpfront-scroll-top.php:117
+msgid "Negative values allowed."
+msgstr "[Povolena záporná hodnota.]"
+
+#: classes/trait-wpfront-scroll-top.php:149
+msgid "Top Left"
+msgstr "Vlevo nahoře"
+
+#: classes/trait-wpfront-scroll-top.php:148
+msgid "Top Right"
+msgstr "Vpravo nahoře"
+
+#: classes/trait-wpfront-scroll-top.php:147
+msgid "Bottom Left"
+msgstr "Dole vlevo"
+
+#: classes/trait-wpfront-scroll-top.php:146
+msgid "Bottom Right"
+msgstr "Dole vpravo"
+
+#: classes/trait-wpfront-scroll-top.php:162
+msgid "Text Button"
+msgstr "Textové tlačítko"
+
+#: classes/trait-wpfront-scroll-top.php:106
+msgid "Button will be hidden on iframes, usually inside popups."
+msgstr "[Tlačítko bude skryté v prvcích iframe, obvykle ve vyskakovacích oknech (pop-up oknech).]"
+
+#: classes/trait-wpfront-scroll-top.php:105
+msgid "Button will be hidden on 'wp-admin'."
+msgstr "[Tlačítko bude skryté na 'wp-admin'.]"
+
+#: classes/trait-wpfront-scroll-top.php:104
+msgid "Button will be hidden on browser window with lesser or equal width."
+msgstr "[Tlačítko bude skryto v okně prohlížeče s menší nebo stejnou šířkou.]"
+
+#: classes/trait-wpfront-scroll-top.php:103
+msgid "Button will be hidden on broswer window when the width matches."
+msgstr "[Tlačítko bude skryto v okně prohlížeče, když bude šířka odpovídat.]"
+
+#: classes/trait-wpfront-scroll-top.php:100
+msgid "Button will be auto hidden after this duration in seconds, if enabled."
+msgstr "[Tlačítko se po uplynutí této doby (v sekundách) automaticky skryje, pokud je toto povoleno.]"
+
+#: classes/trait-wpfront-scroll-top.php:98
+msgid "Window scroll duration in milliseconds."
+msgstr "[Trvání posouvání okna v milisekundách.]"
+
+#: classes/trait-wpfront-scroll-top.php:97
+msgid "Button fade duration in milliseconds."
+msgstr "[Doba slábnutí viditelnosti tlačítka v milisekundách.]"
+
+#: classes/trait-wpfront-scroll-top.php:95
+msgid "Set 0px to auto fit."
+msgstr "[Nastavte 0px pro automatické přizpůsobení.]"
+
+#: classes/trait-wpfront-scroll-top.php:41
+msgid "Button Size"
+msgstr "Velikost tlačítka"
+
+#: classes/trait-wpfront-scroll-top.php:94
+msgid "Number of pixels to be scrolled before the button appears."
+msgstr "[Počet pixelů, které se mají posunuty předtím, než se objeví tlačítko.]"
+
+#: classes/class-wpfront-scroll-top-options-view.php:61
+msgid "Display"
+msgstr "Zobrazení"
+
+#: classes/class-wpfront-scroll-top-options-view.php:71
+msgid "WPFront Scroll Top Settings"
+msgstr "Nastavení WPFront Scroll Top"
+
+#: classes/trait-wpfront-scroll-top.php:213
+msgid "[Post]"
+msgstr "[Příspěvek]"
+
+#: classes/trait-wpfront-scroll-top.php:208
+msgid "[Page]"
+msgstr "[Stránka]"
+
+#: classes/class-wpfront-scroll-top.php:553
+msgid "Scroll Top"
+msgstr "Přesunout nahoru"
+
+#. Plugin Name of the plugin
+#: classes/class-wpfront-scroll-top.php:553
+msgid "WPFront Scroll Top"
+msgstr "WPFront Scroll Top"
+
+#: classes/trait-wpfront-scroll-top.php:77
+msgid "Display on Pages"
+msgstr "Zobrazovat na stránkách"
+
+#: classes/trait-wpfront-scroll-top.php:66
+#: classes/trait-wpfront-scroll-top.php:71
+msgid "Custom CSS"
+msgstr "Vlastní CSS"
+
+#: classes/trait-wpfront-scroll-top.php:64
+msgid "Background Color"
+msgstr "Barva pozadí"
+
+#: classes/trait-wpfront-scroll-top.php:63
+msgid "Text Color"
+msgstr "Barva textu"
+
+#: classes/trait-wpfront-scroll-top.php:62
+msgid "Text"
+msgstr "Text"
+
+#: classes/trait-wpfront-scroll-top.php:58
+msgid "Margin Y"
+msgstr "Odsazení vertikální \"Y\""
+
+#: classes/trait-wpfront-scroll-top.php:57
+msgid "Margin X"
+msgstr "Odsazení horizontální \"Y\""
+
+#: classes/class-wpfront-scroll-top-options-view.php:62
+#: classes/trait-wpfront-scroll-top.php:56
+msgid "Location"
+msgstr "Umístění"
+
+#: classes/trait-wpfront-scroll-top.php:52
+msgid "Hide on iframes"
+msgstr "Skrýt na prvcích iframe"
+
+#: classes/trait-wpfront-scroll-top.php:51
+msgid "Hide on WP-ADMIN"
+msgstr "Skrýt na WP-ADMIN"
+
+#: classes/trait-wpfront-scroll-top.php:60
+msgid "Image ALT"
+msgstr "Název Image ALT"
+
+#: classes/trait-wpfront-scroll-top.php:54
+msgid "Button Style"
+msgstr "Vzhled tlačítka"
+
+#: classes/trait-wpfront-scroll-top.php:50
+msgid "Small Window Max Width"
+msgstr "Max. šířka malého okna"
+
+#: classes/trait-wpfront-scroll-top.php:49
+msgid "Hide on Small Window"
+msgstr "Skrýt na malých oknech"
+
+#: classes/trait-wpfront-scroll-top.php:48
+msgid "Small Device Max Width"
+msgstr "Max. šířka na malých zařízeních"
+
+#: classes/trait-wpfront-scroll-top.php:47
+msgid "Hide on Small Devices"
+msgstr "Skrýt na malých zařízeních"
+
+#: classes/trait-wpfront-scroll-top.php:46
+msgid "Auto Hide After"
+msgstr "Automatický skrýt po"
+
+#: classes/trait-wpfront-scroll-top.php:45
+msgid "Auto Hide"
+msgstr "Automaticky skrýt"
+
+#: classes/trait-wpfront-scroll-top.php:44
+msgid "Scroll Duration"
+msgstr "Trvání posunu"
+
+#: classes/trait-wpfront-scroll-top.php:43
+msgid "Button Fade Duration"
+msgstr "Doba slábnutí intenzity tlačítka"
+
+#: classes/trait-wpfront-scroll-top.php:42
+msgid "Button Opacity"
+msgstr "Průhlednost tlačítka"
+
+#: classes/trait-wpfront-scroll-top.php:40
+msgid "Scroll Offset"
+msgstr "Posun zobrazení"
+
+#: classes/trait-wpfront-scroll-top.php:38
+msgid "Enabled"
+msgstr "Povoleno"
+
+#: classes/class-wpfront-scroll-top-options-view.php:200
+msgid "Buy me a Beer or Coffee"
+msgstr "Kup mi kávu, nebo pivko."
+
+#: classes/class-wpfront-scroll-top-options-view.php:199
+msgid "Write a Review"
+msgstr "Prosím, napište recenzi"
+
+#: classes/class-wpfront-scroll-top-options-view.php:198
+msgid "Settings Description"
+msgstr "Popis nastavení"
+
+#: classes/class-wpfront-scroll-top-options-view.php:221
+msgid "If you have a caching plugin, clear the cache for the new settings to take effect."
+msgstr "Jestliže jste změnil nastavení plug-inu, vyčistěte mezipaměť, aby se projevila nová nastavení."
+
+#: classes/class-wpfront-scroll-top.php:185
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Nemáte dostatečná oprávnění pro přístup k této stránce."
+
+#: classes/class-wpfront-scroll-top.php:318
+msgid "Settings"
+msgstr "Nastavení"
